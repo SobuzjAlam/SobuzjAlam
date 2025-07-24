@@ -42,7 +42,7 @@
 
 ### 📫 How to reach me
 - 💼 [LinkedIn](https://linkedin.com/in/sobuzj)
-- ✉️ Email: `your@email.com`
+- ✉️ Email: `sobuzjalam@gmail.com`
 - 🌐 Design: [Dribbble](https://dribbble.com/sobuzj)
 
 ---
