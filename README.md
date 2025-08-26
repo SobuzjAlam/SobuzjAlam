@@ -45,13 +45,6 @@
 - ✉️ Email: `sobuzjalam@gmail.com`
 - 🌐 Design: [Dribbble](https://dribbble.com/sobuzj)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SobuzjAlam&show_icons=true&theme=radical" alt="SobuzjAlam" />
-</p>
 
 ---
 
